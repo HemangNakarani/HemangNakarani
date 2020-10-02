@@ -35,7 +35,7 @@
   <img alt="Yarn" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yarn.svg" width="30" height="30"/>
   <img alt="Node" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" width="30" height="30"/>
   <img alt="Npm" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" width="30" height="30"/>
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" width="90" height="30"/>
+  <img alt="PostgreSQL" src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" width="30" height="30"/>
   <img alt="Django" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="30" height="30"/>
   <img alt="Heroku" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/heroku.svg" width="30" height="30"/>
   <img alt="Redux" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" width="30" height="30"/>
