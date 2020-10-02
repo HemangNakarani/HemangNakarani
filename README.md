@@ -35,8 +35,8 @@
   <img alt="Yarn" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yarn.svg" width="30" height="30"/>
   <img alt="Node" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" width="30" height="30"/>
   <img alt="Npm" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" width="30" height="30"/>
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" width="30" height="30"/>
-  <img alt="Django" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/Django.svg" width="30" height="30"/>
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" width="90" height="30"/>
+  <img alt="Django" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="30" height="30"/>
   <img alt="Heroku" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/heroku.svg" width="30" height="30"/>
   <img alt="Redux" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" width="30" height="30"/>
   <img alt="HTML5" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html5.svg" width="30" height="30"/>
