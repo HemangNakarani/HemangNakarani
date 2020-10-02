@@ -1,6 +1,6 @@
-### Hello there! Hemang here! 😎
+## Hello there! Hemang here! 😎
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 <p>
   <a href="https://twitter.com/hemmmang" target="_blank">
@@ -24,7 +24,7 @@
  </p>
  <br>
 
-### 🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 <p>
   <img alt="Android" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1000px-Android_logo_2019.svg.png" width="30" height="30"/>
   <img alt="Java" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="30" height="30"/>
