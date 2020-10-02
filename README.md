@@ -26,23 +26,15 @@
 
 ## 🔧 Tools & Technologies
 <p>
-  <img alt="Android" src="https://img.shields.io/badge/-Android-32a842?style=flat-square&logo=android&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-de381b?style=flat-square&logo=java&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-6d2bab?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-e6e21e?style=flat-square&logo=firebase&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-4875a9?style=flat-square&logo=python&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-1e5ae6?style=flat-square&logo=yarn&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Android" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" width="30" height="30"/>
+  <img alt="Java" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="30" height="30"/>
+  <img alt="Kotlin" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" width="30" height="30"/>
+  <img alt="Firebase" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" width="30" height="30"/>
+  <img alt="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="30" height="30"/>
+  <img alt="React" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" width="30" height="30"/>
+  <img alt="Yarn" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yarn.svg" width="30" height="30"/>
+  <img alt="Node" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" width="30" height="30"/>
+  <img alt="Npm" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" width="30" height="30"/>
 </p>
 
 ## &#x1f4c8; GitHub Stats
