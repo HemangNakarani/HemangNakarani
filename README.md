@@ -31,16 +31,18 @@
   <img alt="Kotlin" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" width="30" height="30"/>
   <img alt="Firebase" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" width="30" height="30"/>
   <img alt="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
   <img alt="React" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" width="30" height="30"/>
   <img alt="Yarn" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yarn.svg" width="30" height="30"/>
   <img alt="Node" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" width="30" height="30"/>
   <img alt="Npm" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" width="30" height="30"/>
-  <img alt="PostgreSQL" src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" width="30" height="30"/>
-  <img alt="Django" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="30" height="30"/>
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" width="30" height="30"/>
+  <img alt="Django" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django.svg" width="30" height="30"/>
   <img alt="Heroku" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/heroku.svg" width="30" height="30"/>
   <img alt="Redux" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" width="30" height="30"/>
-  <img alt="HTML5" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html5.svg" width="30" height="30"/>
-  <img alt="CSS" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css.svg" width="30" height="30"/>
+  <img alt="HTML5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
+  <img alt="CSS" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
   <img alt="Git" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git.svg" width="30" height="30"/>
   
   
