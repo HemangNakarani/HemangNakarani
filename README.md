@@ -28,7 +28,6 @@
 <p>
   <img alt="Android" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1000px-Android_logo_2019.svg.png" width="30" height="30"/>
   <img alt="Java" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="30" height="30"/>
-  <img alt="Kotlin" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" width="30" height="30"/>
   <img alt="Firebase" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" width="30" height="30"/>
   <img alt="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>
