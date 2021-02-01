@@ -24,27 +24,5 @@
  </p>
  <br>
 
-## 🔧 Tools & Technologies
-<p>
-  <img alt="Android" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1000px-Android_logo_2019.svg.png" width="30" height="30"/>
-  <img alt="Java" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" width="30" height="30"/>
-  <img alt="Firebase" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" width="30" height="30"/>
-  <img alt="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
-  <img alt="React" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" width="30" height="30"/>
-  <img alt="Yarn" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yarn.svg" width="30" height="30"/>
-  <img alt="Node" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" width="30" height="30"/>
-  <img alt="Npm" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" width="30" height="30"/>
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" width="30" height="30"/>
-  <img alt="Django" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django.svg" width="30" height="30"/>
-  <img alt="Heroku" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/heroku.svg" width="30" height="30"/>
-  <img alt="Redux" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" width="30" height="30"/>
-  <img alt="HTML5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
-  <img alt="CSS" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
-  <img alt="Git" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git.svg" width="30" height="30"/>
-  
-</p>
-
 ## &#x1f4c8; GitHub Stats
 ![Hemang's Github Stats](https://github-readme-stats.vercel.app/api?username=HemangNakarani&show_icons=true&count_private=true&theme=radical)
